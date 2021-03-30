@@ -1,7 +1,7 @@
 
 Systemarkitekt på Wismen Media AB.
 Studerar Mjukvaruutveckling & Mobila Plattformar vid Jönköpings Universitet.
-- 📫 gustav@wismenmedia.se
+- 📫 gustav.persson@wismenmedia.se
 
 <!---
 ThorinEk/ThorinEk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
