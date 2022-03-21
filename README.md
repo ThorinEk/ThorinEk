@@ -1,5 +1,5 @@
 
-<h1>Software Engineering Student</h1>.
+<h1>Software Engineering Student</h1>
 <p>Studying Software Development & Mobile Platforms at School of Engineering, Jönköping University.</p>
 <hr>
 <h2>Albia Sweden AB</h2>
