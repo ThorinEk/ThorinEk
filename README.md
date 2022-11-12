@@ -4,7 +4,7 @@
 
 - 🔭 I am working as a software engineer at Albia Sweden AB
 
-- 🌱 Check out my <a target="_blank" href="https://gustavpersson.dev">personal website</a>.
+- 🌱 Check out my <a target="_blank" href="https://gustavpersson.dev">personal website</a>
 
 - 📫 Contact: **gustav.persson@albia.se**
 
