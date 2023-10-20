@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Gustav <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A software engineer from Jönköping, Sweden</h3>
+<h1 align="center">Gustav Persson <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Professional Software Gardener</h3>
 
-- 🔭 I am working as a software engineer at Albia Sweden AB
+- 🔭 Partner and developer at Albia Sweden AB
 
 - 🌱 Check out my <a target="_blank" href="https://gustavpersson.dev">personal website</a>
 
