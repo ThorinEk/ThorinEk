@@ -2,9 +2,6 @@
 <h1 align="center">Gustav Persson <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Professional Software Gardener</h3>
 
-<img align="right" src="https://github.com/ThorinEk/ThorinEk/blob/main/metrics.plugin.isocalendar.svg" width="45%">
-<img algin="left" src="https://github.com/ThorinEk/ThorinEk/blob/main/metrics.classic.svg" width="45%">
-
 - 🔭 Partner and developer at Albia Sweden AB
 
 - 🌱 Check out my <a target="_blank" href="https://gustavpersson.dev">personal website</a>
@@ -22,3 +19,6 @@
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorinEk&theme=react&layout=compact" />
 </p>
+
+<img align="right" src="https://github.com/ThorinEk/ThorinEk/blob/main/metrics.plugin.isocalendar.svg" width="45%">
+<img algin="left" src="https://github.com/ThorinEk/ThorinEk/blob/main/metrics.classic.svg" width="45%">
