@@ -2,7 +2,7 @@
 <h1 align="center">Gustav Persson <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Professional Software Gardener</h3>
 
-- 🔭 Partner and developer at Albia Sweden AB
+- 🔭 Software Engineer and co-founder at Albia Sweden AB
 
 - 🌱 Check out my <a target="_blank" href="https://gustavpersson.dev">personal website</a>
 
